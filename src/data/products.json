@@ -1,0 +1,441 @@
+[
+	{
+		"id": 1,
+		"name": "Jeans",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Blue",
+			"Black",
+			"Dark Blue",
+			"Grey",
+			"Light Blue"
+		],
+		"price": 40,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 2,
+		"name": "T-Shirt",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"White",
+			"Black",
+			"Red",
+			"Blue",
+			"Green",
+			"Grey"
+		],
+		"price": 20,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 3,
+		"name": "Blazer",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Navy",
+			"Charcoal",
+			"Brown",
+			"Grey"
+		],
+		"price": 80,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 4,
+		"name": "Jacket",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Brown",
+			"Navy",
+			"Olive",
+			"Grey"
+		],
+		"price": 60,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 5,
+		"name": "Trousers",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Navy",
+			"Grey",
+			"Khaki",
+			"Brown"
+		],
+		"price": 45,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 6,
+		"name": "Kurta",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"White",
+			"Cream",
+			"Light Blue",
+			"Pink",
+			"Yellow",
+			"Green"
+		],
+		"price": 35,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 7,
+		"name": "Shirts",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"White",
+			"Blue",
+			"Light Blue",
+			"Pink",
+			"Grey",
+			"Black"
+		],
+		"price": 30,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 8,
+		"name": "Suits",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Navy",
+			"Charcoal",
+			"Grey",
+			"Brown"
+		],
+		"price": 120,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 9,
+		"name": "Sherwani",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Cream",
+			"Gold",
+			"Maroon",
+			"Royal Blue",
+			"White",
+			"Red"
+		],
+		"price": 150,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 10,
+		"name": "Cargo Pants",
+		"category": "mens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Khaki",
+			"Black",
+			"Olive",
+			"Grey",
+			"Brown"
+		],
+		"price": 50,
+		"image": "../assets/products/mens/01.avif"
+	},
+	{
+		"id": 11,
+		"name": "Jeans",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Blue",
+			"Black",
+			"Light Blue",
+			"White",
+			"Grey"
+		],
+		"price": 40,
+		"image": "/assets/products/womens/02.jpeg"
+	},
+	{
+		"id": 12,
+		"name": "Tops",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"White",
+			"Black",
+			"Red",
+			"Pink",
+			"Blue",
+			"Yellow",
+			"Green"
+		],
+		"price": 25,
+		"image": "../assets/products/womens/01.avif"
+	},
+	{
+		"id": 13,
+		"name": "Suits",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Navy",
+			"Grey",
+			"Beige",
+			"White"
+		],
+		"price": 80,
+		"image": "../assets/products/womens/01.avif"
+	},
+	{
+		"id": 14,
+		"name": "Salwar Suits",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Pink",
+			"Blue",
+			"Green",
+			"Yellow",
+			"Red",
+			"Purple",
+			"Orange"
+		],
+		"price": 60,
+		"image": "../assets/products/womens/01.avif"
+	},
+	{
+		"id": 15,
+		"name": "Lehnga",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Red",
+			"Pink",
+			"Royal Blue",
+			"Green",
+			"Gold",
+			"Purple",
+			"Maroon"
+		],
+		"price": 100,
+		"image": "../assets/products/womens/01.avif"
+	},
+	{
+		"id": 16,
+		"name": "Saree",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Red",
+			"Blue",
+			"Green",
+			"Pink",
+			"Gold",
+			"Purple",
+			"Orange",
+			"Yellow"
+		],
+		"price": 70,
+		"image": "../assets/products/womens/01.avif"
+	},
+	{
+		"id": 17,
+		"name": "Shorts",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Blue",
+			"White",
+			"Pink",
+			"Grey",
+			"Khaki"
+		],
+		"price": 20,
+		"image": "../assets/products/womens/01.avif"
+	},
+	{
+		"id": 18,
+		"name": "One Piece",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Red",
+			"Blue",
+			"White",
+			"Pink",
+			"Green",
+			"Purple"
+		],
+		"price": 50,
+		"image": "../assets/products/womens/01.avif"
+	},
+	{
+		"id": 19,
+		"name": "Skirts",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Blue",
+			"Red",
+			"Pink",
+			"White",
+			"Grey"
+		],
+		"price": 35,
+		"image": "/assets/products/womens/02.jpeg"
+	},
+	{
+		"id": 20,
+		"name": "Bags",
+		"category": "womens",
+		"sizes": [
+			"S",
+			"M",
+			"L",
+			"XL",
+			"XXL"
+		],
+		"colors": [
+			"Black",
+			"Brown",
+			"White",
+			"Red",
+			"Blue",
+			"Pink",
+			"Beige"
+		],
+		"price": 45,
+		"image": "../assets/products/womens/01.avif"
+	}
+]
